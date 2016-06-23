@@ -1,0 +1,277 @@
+[Thu May 26 11:28:48.222148 2016] [ssl:warn] [pid 2512:tid 320] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu May 26 11:28:48.222148 2016] [mpm_winnt:notice] [pid 2512:tid 320] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Thu May 26 11:28:48.222148 2016] [mpm_winnt:notice] [pid 2512:tid 320] AH00456: Server built: Mar 20 2015 15:27:07
+[Thu May 26 11:28:48.222148 2016] [mpm_winnt:notice] [pid 2512:tid 320] AH80000: Distributed by: The Apache Haus
+[Thu May 26 11:28:48.222148 2016] [mpm_winnt:notice] [pid 2512:tid 320] AH80001: Compiled with: Visual Studio 2008
+[Thu May 26 11:28:48.222148 2016] [core:notice] [pid 2512:tid 320] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Thu May 26 11:28:48.225149 2016] [mpm_winnt:notice] [pid 2512:tid 320] AH00418: Parent: Created child process 3996
+Apache server shutdown initiated...
+sl:warn] [pid 3996:tid 336] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu May 26 11:28:48.707176 2016] [mpm_winnt:notice] [pid 3996:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu May 26 11:30:40.740584 2016] [mpm_winnt:notice] [pid 2512:tid 320] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 26 11:30:42.741699 2016] [mpm_winnt:notice] [pid 3996:tid 336] AH00364: Child: All worker threads have exited.
+[Thu May 26 11:30:42.759700 2016] [mpm_winnt:notice] [pid 2512:tid 320] AH00430: Parent: Child process 3996 exited successfully.
+[Thu May 26 11:33:02.655701 2016] [ssl:warn] [pid 2388:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu May 26 11:33:02.655701 2016] [mpm_winnt:notice] [pid 2388:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Thu May 26 11:33:02.655701 2016] [mpm_winnt:notice] [pid 2388:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Thu May 26 11:33:02.655701 2016] [mpm_winnt:notice] [pid 2388:tid 404] AH80000: Distributed by: The Apache Haus
+[Thu May 26 11:33:02.655701 2016] [mpm_winnt:notice] [pid 2388:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Thu May 26 11:33:02.655701 2016] [core:notice] [pid 2388:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Thu May 26 11:33:02.658701 2016] [mpm_winnt:notice] [pid 2388:tid 404] AH00418: Parent: Created child process 4652
+[Thu May 26 11:33:03.058724 2016] [ssl:warn] [pid 4652:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu May 26 11:33:03.060724 2016] [mpm_winnt:notice] [pid 4652:tid 296] AH00354: Child: Starting 64 worker threads.
+[Thu May 26 16:07:24.516603 2016] [mpm_winnt:notice] [pid 2388:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 26 16:07:26.517717 2016] [mpm_winnt:notice] [pid 4652:tid 296] AH00364: Child: All worker threads have exited.
+[Thu May 26 16:07:26.535718 2016] [mpm_winnt:notice] [pid 2388:tid 404] AH00430: Parent: Child process 4652 exited successfully.
+[Thu May 26 16:07:29.248873 2016] [ssl:warn] [pid 5356:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu May 26 16:07:29.249873 2016] [mpm_winnt:notice] [pid 5356:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Thu May 26 16:07:29.249873 2016] [mpm_winnt:notice] [pid 5356:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Thu May 26 16:07:29.249873 2016] [mpm_winnt:notice] [pid 5356:tid 404] AH80000: Distributed by: The Apache Haus
+[Thu May 26 16:07:29.249873 2016] [mpm_winnt:notice] [pid 5356:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Thu May 26 16:07:29.249873 2016] [core:notice] [pid 5356:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Thu May 26 16:07:29.252874 2016] [mpm_winnt:notice] [pid 5356:tid 404] AH00418: Parent: Created child process 6000
+[Thu May 26 16:07:29.728901 2016] [ssl:warn] [pid 6000:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu May 26 16:07:29.730901 2016] [mpm_winnt:notice] [pid 6000:tid 296] AH00354: Child: Starting 64 worker threads.
+[Thu May 26 16:36:24.421119 2016] [mpm_winnt:notice] [pid 5356:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 26 16:36:26.421234 2016] [mpm_winnt:notice] [pid 6000:tid 296] AH00364: Child: All worker threads have exited.
+[Thu May 26 16:36:26.438235 2016] [mpm_winnt:notice] [pid 5356:tid 404] AH00430: Parent: Child process 6000 exited successfully.
+[Thu May 26 17:00:08.307561 2016] [ssl:warn] [pid 4308:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu May 26 17:00:08.307561 2016] [mpm_winnt:notice] [pid 4308:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Thu May 26 17:00:08.307561 2016] [mpm_winnt:notice] [pid 4308:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Thu May 26 17:00:08.307561 2016] [mpm_winnt:notice] [pid 4308:tid 404] AH80000: Distributed by: The Apache Haus
+[Thu May 26 17:00:08.307561 2016] [mpm_winnt:notice] [pid 4308:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Thu May 26 17:00:08.307561 2016] [core:notice] [pid 4308:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Thu May 26 17:00:08.310561 2016] [mpm_winnt:notice] [pid 4308:tid 404] AH00418: Parent: Created child process 5204
+[Thu May 26 17:00:08.699584 2016] [ssl:warn] [pid 5204:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu May 26 17:00:08.701584 2016] [mpm_winnt:notice] [pid 5204:tid 296] AH00354: Child: Starting 64 worker threads.
+[Thu May 26 17:27:57.367026 2016] [mpm_winnt:notice] [pid 4308:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 26 17:27:59.367140 2016] [mpm_winnt:notice] [pid 5204:tid 296] AH00364: Child: All worker threads have exited.
+[Thu May 26 17:27:59.384141 2016] [mpm_winnt:notice] [pid 4308:tid 404] AH00430: Parent: Child process 5204 exited successfully.
+[Thu May 26 17:30:01.469316 2016] [ssl:warn] [pid 1632:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu May 26 17:30:01.812517 2016] [mpm_winnt:notice] [pid 1632:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Thu May 26 17:30:01.812517 2016] [mpm_winnt:notice] [pid 1632:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Thu May 26 17:30:01.812517 2016] [mpm_winnt:notice] [pid 1632:tid 404] AH80000: Distributed by: The Apache Haus
+[Thu May 26 17:30:01.812517 2016] [mpm_winnt:notice] [pid 1632:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Thu May 26 17:30:01.812517 2016] [core:notice] [pid 1632:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Thu May 26 17:30:01.843717 2016] [mpm_winnt:notice] [pid 1632:tid 404] AH00418: Parent: Created child process 2216
+[Thu May 26 17:30:03.076119 2016] [ssl:warn] [pid 2216:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu May 26 17:30:03.076119 2016] [mpm_winnt:notice] [pid 2216:tid 296] AH00354: Child: Starting 64 worker threads.
+[Thu May 26 17:57:22.635331 2016] [mpm_winnt:notice] [pid 1632:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 26 17:57:24.663334 2016] [mpm_winnt:notice] [pid 2216:tid 296] AH00364: Child: All worker threads have exited.
+[Thu May 26 17:57:24.678934 2016] [mpm_winnt:notice] [pid 1632:tid 404] AH00430: Parent: Child process 2216 exited successfully.
+[Mon May 30 08:46:29.332472 2016] [ssl:warn] [pid 1624:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon May 30 08:46:30.471274 2016] [mpm_winnt:notice] [pid 1624:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Mon May 30 08:46:30.471274 2016] [mpm_winnt:notice] [pid 1624:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Mon May 30 08:46:30.471274 2016] [mpm_winnt:notice] [pid 1624:tid 404] AH80000: Distributed by: The Apache Haus
+[Mon May 30 08:46:30.471274 2016] [mpm_winnt:notice] [pid 1624:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Mon May 30 08:46:30.471274 2016] [core:notice] [pid 1624:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Mon May 30 08:46:30.518074 2016] [mpm_winnt:notice] [pid 1624:tid 404] AH00418: Parent: Created child process 1664
+[Mon May 30 08:46:31.298075 2016] [ssl:warn] [pid 1664:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon May 30 08:46:31.298075 2016] [mpm_winnt:notice] [pid 1664:tid 296] AH00354: Child: Starting 64 worker threads.
+[Mon May 30 18:00:54.067225 2016] [mpm_winnt:notice] [pid 1624:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon May 30 18:00:56.095229 2016] [mpm_winnt:notice] [pid 1664:tid 296] AH00364: Child: All worker threads have exited.
+[Mon May 30 18:00:56.110829 2016] [mpm_winnt:notice] [pid 1624:tid 404] AH00430: Parent: Child process 1664 exited successfully.
+[Tue May 31 08:47:47.021678 2016] [ssl:warn] [pid 1620:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue May 31 08:47:47.037278 2016] [mpm_winnt:notice] [pid 1620:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Tue May 31 08:47:47.037278 2016] [mpm_winnt:notice] [pid 1620:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Tue May 31 08:47:47.037278 2016] [mpm_winnt:notice] [pid 1620:tid 404] AH80000: Distributed by: The Apache Haus
+[Tue May 31 08:47:47.037278 2016] [mpm_winnt:notice] [pid 1620:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Tue May 31 08:47:47.037278 2016] [core:notice] [pid 1620:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Tue May 31 08:47:47.052878 2016] [mpm_winnt:notice] [pid 1620:tid 404] AH00418: Parent: Created child process 1880
+[Tue May 31 08:47:47.474079 2016] [ssl:warn] [pid 1880:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue May 31 08:47:47.474079 2016] [mpm_winnt:notice] [pid 1880:tid 296] AH00354: Child: Starting 64 worker threads.
+[Tue May 31 18:01:07.912328 2016] [mpm_winnt:notice] [pid 1620:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue May 31 18:01:09.940331 2016] [mpm_winnt:notice] [pid 1880:tid 296] AH00364: Child: All worker threads have exited.
+[Tue May 31 18:01:09.955931 2016] [mpm_winnt:notice] [pid 1620:tid 404] AH00430: Parent: Child process 1880 exited successfully.
+[Wed Jun 01 08:50:52.119666 2016] [ssl:warn] [pid 1612:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jun 01 08:50:52.150866 2016] [mpm_winnt:notice] [pid 1612:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Wed Jun 01 08:50:52.150866 2016] [mpm_winnt:notice] [pid 1612:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Wed Jun 01 08:50:52.150866 2016] [mpm_winnt:notice] [pid 1612:tid 404] AH80000: Distributed by: The Apache Haus
+[Wed Jun 01 08:50:52.150866 2016] [mpm_winnt:notice] [pid 1612:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Wed Jun 01 08:50:52.150866 2016] [core:notice] [pid 1612:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Wed Jun 01 08:50:52.166466 2016] [mpm_winnt:notice] [pid 1612:tid 404] AH00418: Parent: Created child process 1872
+[Wed Jun 01 08:50:52.572067 2016] [ssl:warn] [pid 1872:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jun 01 08:50:52.572067 2016] [mpm_winnt:notice] [pid 1872:tid 296] AH00354: Child: Starting 64 worker threads.
+[Wed Jun 01 17:59:50.562660 2016] [mpm_winnt:notice] [pid 1612:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jun 01 17:59:52.590663 2016] [mpm_winnt:notice] [pid 1872:tid 296] AH00364: Child: All worker threads have exited.
+[Wed Jun 01 17:59:52.606263 2016] [mpm_winnt:notice] [pid 1612:tid 404] AH00430: Parent: Child process 1872 exited successfully.
+[Thu Jun 02 08:47:33.093674 2016] [ssl:warn] [pid 1480:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jun 02 08:47:33.124875 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Thu Jun 02 08:47:33.124875 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Thu Jun 02 08:47:33.124875 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH80000: Distributed by: The Apache Haus
+[Thu Jun 02 08:47:33.124875 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Thu Jun 02 08:47:33.124875 2016] [core:notice] [pid 1480:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Thu Jun 02 08:47:33.156075 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00418: Parent: Created child process 1908
+[Thu Jun 02 08:47:33.483675 2016] [ssl:warn] [pid 1908:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jun 02 08:47:33.483675 2016] [mpm_winnt:notice] [pid 1908:tid 296] AH00354: Child: Starting 64 worker threads.
+[Thu Jun 02 18:00:33.093763 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 02 18:00:35.121766 2016] [mpm_winnt:notice] [pid 1908:tid 296] AH00364: Child: All worker threads have exited.
+[Thu Jun 02 18:00:35.137366 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00430: Parent: Child process 1908 exited successfully.
+[Fri Jun 03 08:52:56.804063 2016] [ssl:warn] [pid 1544:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jun 03 08:52:56.819663 2016] [mpm_winnt:notice] [pid 1544:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Fri Jun 03 08:52:56.819663 2016] [mpm_winnt:notice] [pid 1544:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Fri Jun 03 08:52:56.819663 2016] [mpm_winnt:notice] [pid 1544:tid 404] AH80000: Distributed by: The Apache Haus
+[Fri Jun 03 08:52:56.819663 2016] [mpm_winnt:notice] [pid 1544:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Fri Jun 03 08:52:56.819663 2016] [core:notice] [pid 1544:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Fri Jun 03 08:52:56.835263 2016] [mpm_winnt:notice] [pid 1544:tid 404] AH00418: Parent: Created child process 1972
+[Fri Jun 03 08:52:57.147263 2016] [ssl:warn] [pid 1972:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jun 03 08:52:57.147263 2016] [mpm_winnt:notice] [pid 1972:tid 296] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 03 18:01:08.260477 2016] [mpm_winnt:notice] [pid 1544:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 03 18:01:10.288481 2016] [mpm_winnt:notice] [pid 1972:tid 296] AH00364: Child: All worker threads have exited.
+[Fri Jun 03 18:01:10.304081 2016] [mpm_winnt:notice] [pid 1544:tid 404] AH00430: Parent: Child process 1972 exited successfully.
+[Mon Jun 06 08:49:22.240862 2016] [ssl:warn] [pid 1492:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Jun 06 08:49:22.240862 2016] [mpm_winnt:notice] [pid 1492:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Mon Jun 06 08:49:22.240862 2016] [mpm_winnt:notice] [pid 1492:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Mon Jun 06 08:49:22.240862 2016] [mpm_winnt:notice] [pid 1492:tid 404] AH80000: Distributed by: The Apache Haus
+[Mon Jun 06 08:49:22.240862 2016] [mpm_winnt:notice] [pid 1492:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Mon Jun 06 08:49:22.240862 2016] [core:notice] [pid 1492:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Mon Jun 06 08:49:22.272062 2016] [mpm_winnt:notice] [pid 1492:tid 404] AH00418: Parent: Created child process 1920
+[Mon Jun 06 08:49:22.568463 2016] [ssl:warn] [pid 1920:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Jun 06 08:49:22.568463 2016] [mpm_winnt:notice] [pid 1920:tid 296] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 06 17:59:38.703267 2016] [mpm_winnt:notice] [pid 1492:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 06 17:59:40.731270 2016] [mpm_winnt:notice] [pid 1920:tid 296] AH00364: Child: All worker threads have exited.
+[Mon Jun 06 17:59:40.746870 2016] [mpm_winnt:notice] [pid 1492:tid 404] AH00430: Parent: Child process 1920 exited successfully.
+[Tue Jun 07 08:47:19.413267 2016] [ssl:warn] [pid 1488:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Jun 07 08:47:19.428867 2016] [mpm_winnt:notice] [pid 1488:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Tue Jun 07 08:47:19.428867 2016] [mpm_winnt:notice] [pid 1488:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Tue Jun 07 08:47:19.428867 2016] [mpm_winnt:notice] [pid 1488:tid 404] AH80000: Distributed by: The Apache Haus
+[Tue Jun 07 08:47:19.428867 2016] [mpm_winnt:notice] [pid 1488:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Tue Jun 07 08:47:19.428867 2016] [core:notice] [pid 1488:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Tue Jun 07 08:47:19.444467 2016] [mpm_winnt:notice] [pid 1488:tid 404] AH00418: Parent: Created child process 1920
+[Tue Jun 07 08:47:19.756467 2016] [ssl:warn] [pid 1920:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Jun 07 08:47:19.756467 2016] [mpm_winnt:notice] [pid 1920:tid 296] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 07 18:00:33.783859 2016] [mpm_winnt:notice] [pid 1488:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 07 18:00:35.811863 2016] [mpm_winnt:notice] [pid 1920:tid 296] AH00364: Child: All worker threads have exited.
+[Tue Jun 07 18:00:35.827463 2016] [mpm_winnt:notice] [pid 1488:tid 404] AH00430: Parent: Child process 1920 exited successfully.
+[Wed Jun 08 08:45:52.766863 2016] [ssl:warn] [pid 1540:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jun 08 08:45:52.782463 2016] [mpm_winnt:notice] [pid 1540:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Wed Jun 08 08:45:52.782463 2016] [mpm_winnt:notice] [pid 1540:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Wed Jun 08 08:45:52.782463 2016] [mpm_winnt:notice] [pid 1540:tid 404] AH80000: Distributed by: The Apache Haus
+[Wed Jun 08 08:45:52.782463 2016] [mpm_winnt:notice] [pid 1540:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Wed Jun 08 08:45:52.782463 2016] [core:notice] [pid 1540:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Wed Jun 08 08:45:52.798063 2016] [mpm_winnt:notice] [pid 1540:tid 404] AH00418: Parent: Created child process 1980
+[Wed Jun 08 08:45:53.110064 2016] [ssl:warn] [pid 1980:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jun 08 08:45:53.110064 2016] [mpm_winnt:notice] [pid 1980:tid 296] AH00354: Child: Starting 64 worker threads.
+[Wed Jun 08 18:00:45.273353 2016] [mpm_winnt:notice] [pid 1540:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jun 08 18:00:47.301357 2016] [mpm_winnt:notice] [pid 1980:tid 296] AH00364: Child: All worker threads have exited.
+[Wed Jun 08 18:00:47.316957 2016] [mpm_winnt:notice] [pid 1540:tid 404] AH00430: Parent: Child process 1980 exited successfully.
+[Sun Jun 12 08:51:52.880062 2016] [ssl:warn] [pid 1480:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jun 12 08:51:52.880062 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Sun Jun 12 08:51:52.880062 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Sun Jun 12 08:51:52.880062 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH80000: Distributed by: The Apache Haus
+[Sun Jun 12 08:51:52.880062 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Sun Jun 12 08:51:52.880062 2016] [core:notice] [pid 1480:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Sun Jun 12 08:51:52.895662 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00418: Parent: Created child process 1912
+[Sun Jun 12 08:51:53.238863 2016] [ssl:warn] [pid 1912:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sun Jun 12 08:51:53.238863 2016] [mpm_winnt:notice] [pid 1912:tid 296] AH00354: Child: Starting 64 worker threads.
+[Sun Jun 12 17:59:42.319754 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sun Jun 12 17:59:44.347758 2016] [mpm_winnt:notice] [pid 1912:tid 296] AH00364: Child: All worker threads have exited.
+[Sun Jun 12 17:59:44.363358 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00430: Parent: Child process 1912 exited successfully.
+[Mon Jun 13 08:48:45.586867 2016] [ssl:warn] [pid 1524:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Jun 13 08:48:45.602467 2016] [mpm_winnt:notice] [pid 1524:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Mon Jun 13 08:48:45.602467 2016] [mpm_winnt:notice] [pid 1524:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Mon Jun 13 08:48:45.602467 2016] [mpm_winnt:notice] [pid 1524:tid 404] AH80000: Distributed by: The Apache Haus
+[Mon Jun 13 08:48:45.602467 2016] [mpm_winnt:notice] [pid 1524:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Mon Jun 13 08:48:45.602467 2016] [core:notice] [pid 1524:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Mon Jun 13 08:48:45.618067 2016] [mpm_winnt:notice] [pid 1524:tid 404] AH00418: Parent: Created child process 1964
+[Mon Jun 13 08:48:45.945668 2016] [ssl:warn] [pid 1964:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Jun 13 08:48:45.945668 2016] [mpm_winnt:notice] [pid 1964:tid 296] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 14 18:01:37.235964 2016] [mpm_winnt:notice] [pid 1524:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 14 18:01:39.263968 2016] [mpm_winnt:notice] [pid 1964:tid 296] AH00364: Child: All worker threads have exited.
+[Tue Jun 14 18:01:39.279568 2016] [mpm_winnt:notice] [pid 1524:tid 404] AH00430: Parent: Child process 1964 exited successfully.
+[Wed Jun 15 08:51:06.751269 2016] [ssl:warn] [pid 1492:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jun 15 08:51:06.766870 2016] [mpm_winnt:notice] [pid 1492:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Wed Jun 15 08:51:06.766870 2016] [mpm_winnt:notice] [pid 1492:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Wed Jun 15 08:51:06.766870 2016] [mpm_winnt:notice] [pid 1492:tid 404] AH80000: Distributed by: The Apache Haus
+[Wed Jun 15 08:51:06.766870 2016] [mpm_winnt:notice] [pid 1492:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Wed Jun 15 08:51:06.766870 2016] [core:notice] [pid 1492:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Wed Jun 15 08:51:06.782470 2016] [mpm_winnt:notice] [pid 1492:tid 404] AH00418: Parent: Created child process 1920
+[Wed Jun 15 08:51:07.110070 2016] [ssl:warn] [pid 1920:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jun 15 08:51:07.110070 2016] [mpm_winnt:notice] [pid 1920:tid 296] AH00354: Child: Starting 64 worker threads.
+[Wed Jun 15 17:59:26.943913 2016] [mpm_winnt:notice] [pid 1492:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jun 15 17:59:28.971917 2016] [mpm_winnt:notice] [pid 1920:tid 296] AH00364: Child: All worker threads have exited.
+[Wed Jun 15 17:59:28.987517 2016] [mpm_winnt:notice] [pid 1492:tid 404] AH00430: Parent: Child process 1920 exited successfully.
+[Thu Jun 16 08:49:25.992875 2016] [ssl:warn] [pid 1472:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jun 16 08:49:26.008475 2016] [mpm_winnt:notice] [pid 1472:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Thu Jun 16 08:49:26.008475 2016] [mpm_winnt:notice] [pid 1472:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Thu Jun 16 08:49:26.008475 2016] [mpm_winnt:notice] [pid 1472:tid 404] AH80000: Distributed by: The Apache Haus
+[Thu Jun 16 08:49:26.008475 2016] [mpm_winnt:notice] [pid 1472:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Thu Jun 16 08:49:26.008475 2016] [core:notice] [pid 1472:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Thu Jun 16 08:49:26.024075 2016] [mpm_winnt:notice] [pid 1472:tid 404] AH00418: Parent: Created child process 1928
+[Thu Jun 16 08:49:26.367275 2016] [ssl:warn] [pid 1928:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jun 16 08:49:26.367275 2016] [mpm_winnt:notice] [pid 1928:tid 296] AH00354: Child: Starting 64 worker threads.
+[Thu Jun 16 17:58:25.698266 2016] [mpm_winnt:notice] [pid 1472:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 16 17:58:27.726270 2016] [mpm_winnt:notice] [pid 1928:tid 296] AH00364: Child: All worker threads have exited.
+[Thu Jun 16 17:58:27.741870 2016] [mpm_winnt:notice] [pid 1472:tid 404] AH00430: Parent: Child process 1928 exited successfully.
+[Fri Jun 17 08:46:36.859269 2016] [ssl:warn] [pid 1480:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jun 17 08:46:36.890469 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Fri Jun 17 08:46:36.890469 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Fri Jun 17 08:46:36.890469 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH80000: Distributed by: The Apache Haus
+[Fri Jun 17 08:46:36.890469 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Fri Jun 17 08:46:36.890469 2016] [core:notice] [pid 1480:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Fri Jun 17 08:46:36.906069 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00418: Parent: Created child process 1940
+[Fri Jun 17 08:46:37.218070 2016] [ssl:warn] [pid 1940:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jun 17 08:46:37.218070 2016] [mpm_winnt:notice] [pid 1940:tid 296] AH00354: Child: Starting 64 worker threads.
+[Fri Jun 17 16:08:49.165884 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Jun 17 16:08:51.193888 2016] [mpm_winnt:notice] [pid 1940:tid 296] AH00364: Child: All worker threads have exited.
+[Fri Jun 17 16:08:51.209488 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00430: Parent: Child process 1940 exited successfully.
+[Mon Jun 20 08:52:41.437268 2016] [ssl:warn] [pid 1484:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Jun 20 08:52:41.452868 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Mon Jun 20 08:52:41.452868 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Mon Jun 20 08:52:41.452868 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH80000: Distributed by: The Apache Haus
+[Mon Jun 20 08:52:41.452868 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Mon Jun 20 08:52:41.452868 2016] [core:notice] [pid 1484:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Mon Jun 20 08:52:41.468468 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00418: Parent: Created child process 1900
+[Mon Jun 20 08:52:41.796069 2016] [ssl:warn] [pid 1900:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Jun 20 08:52:41.796069 2016] [mpm_winnt:notice] [pid 1900:tid 296] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 20 18:00:23.509606 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Jun 20 18:00:25.537609 2016] [mpm_winnt:notice] [pid 1900:tid 296] AH00364: Child: All worker threads have exited.
+[Mon Jun 20 18:00:25.553209 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00430: Parent: Child process 1900 exited successfully.
+[Tue Jun 21 08:48:00.823271 2016] [ssl:warn] [pid 1484:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Jun 21 08:48:00.838871 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Tue Jun 21 08:48:00.838871 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Tue Jun 21 08:48:00.838871 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH80000: Distributed by: The Apache Haus
+[Tue Jun 21 08:48:00.838871 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Tue Jun 21 08:48:00.838871 2016] [core:notice] [pid 1484:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Tue Jun 21 08:48:00.854471 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00418: Parent: Created child process 1936
+[Tue Jun 21 08:48:01.197672 2016] [ssl:warn] [pid 1936:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Jun 21 08:48:01.197672 2016] [mpm_winnt:notice] [pid 1936:tid 296] AH00354: Child: Starting 64 worker threads.
+[Tue Jun 21 17:53:29.180729 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Jun 21 17:53:31.208733 2016] [mpm_winnt:notice] [pid 1936:tid 296] AH00364: Child: All worker threads have exited.
+[Tue Jun 21 17:53:31.224333 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00430: Parent: Child process 1936 exited successfully.
+[Wed Jun 22 08:57:42.767270 2016] [ssl:warn] [pid 1484:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jun 22 08:57:42.767270 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Wed Jun 22 08:57:42.767270 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Wed Jun 22 08:57:42.767270 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH80000: Distributed by: The Apache Haus
+[Wed Jun 22 08:57:42.767270 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Wed Jun 22 08:57:42.767270 2016] [core:notice] [pid 1484:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Wed Jun 22 08:57:42.782870 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00418: Parent: Created child process 1952
+[Wed Jun 22 08:57:43.094870 2016] [ssl:warn] [pid 1952:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Jun 22 08:57:43.094870 2016] [mpm_winnt:notice] [pid 1952:tid 296] AH00354: Child: Starting 64 worker threads.
+[Wed Jun 22 17:59:59.029789 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jun 22 18:00:01.057792 2016] [mpm_winnt:notice] [pid 1952:tid 296] AH00364: Child: All worker threads have exited.
+[Wed Jun 22 18:00:01.073392 2016] [mpm_winnt:notice] [pid 1484:tid 404] AH00430: Parent: Child process 1952 exited successfully.
+[Thu Jun 23 08:54:18.273668 2016] [ssl:warn] [pid 1480:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jun 23 08:54:18.289268 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Thu Jun 23 08:54:18.289268 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Thu Jun 23 08:54:18.289268 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH80000: Distributed by: The Apache Haus
+[Thu Jun 23 08:54:18.289268 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Thu Jun 23 08:54:18.289268 2016] [core:notice] [pid 1480:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Thu Jun 23 08:54:18.304868 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00418: Parent: Created child process 1948
+[Thu Jun 23 08:54:18.663669 2016] [ssl:warn] [pid 1948:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jun 23 08:54:18.663669 2016] [mpm_winnt:notice] [pid 1948:tid 296] AH00354: Child: Starting 64 worker threads.
+[Thu Jun 23 09:25:50.402412 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 23 09:25:52.402527 2016] [mpm_winnt:notice] [pid 1948:tid 296] AH00364: Child: All worker threads have exited.
+[Thu Jun 23 09:25:52.418528 2016] [mpm_winnt:notice] [pid 1480:tid 404] AH00430: Parent: Child process 1948 exited successfully.
+[Thu Jun 23 09:25:53.307578 2016] [ssl:warn] [pid 3536:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jun 23 09:25:53.307578 2016] [mpm_winnt:notice] [pid 3536:tid 404] AH00455: Apache/2.4.12 (Win64) OpenSSL/1.0.1m configured -- resuming normal operations
+[Thu Jun 23 09:25:53.307578 2016] [mpm_winnt:notice] [pid 3536:tid 404] AH00456: Server built: Mar 20 2015 15:27:07
+[Thu Jun 23 09:25:53.307578 2016] [mpm_winnt:notice] [pid 3536:tid 404] AH80000: Distributed by: The Apache Haus
+[Thu Jun 23 09:25:53.307578 2016] [mpm_winnt:notice] [pid 3536:tid 404] AH80001: Compiled with: Visual Studio 2008
+[Thu Jun 23 09:25:53.307578 2016] [core:notice] [pid 3536:tid 404] AH00094: Command line: 'e:\\x64\\bin\\httpd.exe -d E:/x64'
+[Thu Jun 23 09:25:53.308579 2016] [mpm_winnt:notice] [pid 3536:tid 404] AH00418: Parent: Created child process 3888
+[Thu Jun 23 09:25:53.671599 2016] [ssl:warn] [pid 3888:tid 296] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Jun 23 09:25:53.672599 2016] [mpm_winnt:notice] [pid 3888:tid 296] AH00354: Child: Starting 64 worker threads.
+[Thu Jun 23 09:39:05.340880 2016] [mpm_winnt:notice] [pid 3536:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 23 09:39:07.341995 2016] [mpm_winnt:notice] [pid 3888:tid 296] AH00364: Child: All worker threads have exited.
+[Thu Jun 23 09:39:07.358996 2016] [mpm_winnt:notice] [pid 3536:tid 404] AH00430: Parent: Child process 3888 exited successfully.

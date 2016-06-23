@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>2016年安健环技能竞赛选手</title>
+  <link media="screen" rel="stylesheet" type="text/css" href="test.css" >
+  <link media="screen" rel="stylesheet" type="text/css" href="button.css" >
+  <link media="screen" rel="stylesheet" type="text/css" href="bootstrap.css" >
+  <!--<script src="http://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>-->
+  <script type="text/javascript" src="jquery-2.2.4.min.js"></script>
+  <script type="text/javascript" src="angular.js"></script>
+  <script type="text/javascript" src="test.js"></script>
+</head>
+<body>
+   <div class="form-box" ng-app='logModule'>
+     <div class="body" ng-controller='logCtrl'>
+         <div class="form-login">
+             <p class="myTitle">2016年安健环技能竞赛选手</p>
+         </div>
+
+         <div class="container">
+             <div class="row">
+                 <div class="span3">
+                     <p></p>
+                 </div>
+                 <div class="span3">
+                     <p class="label label-info rowMarginLeft">主、副值</p>
+                 </div>
+                 <div class="span3">
+                     <p class="label label-info rowMarginLeft">巡检</p>
+                 </div>
+             </div>
+
+             <div class="row form-first">
+                 <div class="span3 rowMargin">
+                     <a class="button button-3d button-action button-pill" ng-click="onClickFirstStart()">发电部一值</a>
+                 </div>
+                 <div class="span3 rowMargin1">
+                     <input type="text" class="textShow" value="{{firstMainCode}}    {{firstMainName}}">
+                 </div>
+                 <div class="span3 rowMargin1">
+                     <input type="text" class="textShow" value="{{firstXunCode}}    {{firstXunName}}">
+                 </div>
+             </div>
+
+             <div class="row form-login ">
+                 <div class="span3 rowMargin">
+                     <a class="button button-3d button-action button-pill" ng-click="onClickSecondStart()">发电部二值</a>
+                 </div>
+                 <div class="span3 rowMargin1">
+                     <input type="text" class="textShow" value="{{secondMainCode}}    {{secondMainName}}">
+                 </div>
+                 <div class="span3 rowMargin1">
+                     <input type="text" class="textShow" value="{{secondXunCode}}    {{secondXunName}}">
+                 </div>
+             </div>
+
+             <div class="row form-login">
+                 <div class="span3 rowMargin">
+                     <a class="button button-3d button-action button-pill" ng-click="onClickThirdStart()">发电部三值</a>
+                 </div>
+                 <div class="span3 rowMargin1">
+                     <input type="text" class="textShow" value="{{thirdMainCode}}    {{thirdMainName}}">
+                 </div>
+                 <div class="span3 rowMargin1">
+                     <input type="text" class="textShow" value="{{thirdXunCode}}    {{thirdXunName}}">
+                 </div>
+             </div>
+         </div>
+
+         <div class="footer">
+         </div>
+     </div>
+   </div>
+
+
+
+
+</body>
+</html>

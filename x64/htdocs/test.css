@@ -1,0 +1,101 @@
+.form-box {
+  margin: 50px;
+}
+
+.body{
+    -webkit-box-shadow: 0px 2px 3px 0px rgba(194,194,194,0.5);
+    -moz-box-shadow: 0px 2px 3px 0px rgba(194,194,194,0.5);
+    box-shadow: 0px 2px 3px 0px rgba(194,194,194,0.5);
+    background: #f9f9f9;
+}
+
+.footer{
+    height: 60px;
+    margin-top:40px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.myTitle{
+    color: #F4A606;
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.borderCenter{
+    text-align: center;
+    padding-top: 30px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.textTitle{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.textShow{
+    color: #017FE5;
+    font-size: 35px;
+    width: 200px;
+}
+
+.form-login{
+	margin-top: 20px;
+	margin-bottom: 20px;
+    text-align: center;
+}
+
+.startButton{
+    display: inline-block;
+    padding: 40px 80px;
+    font-size: 40px;
+    width: 300px;
+    color: #fff;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-color: rgb(12,110,190) !important;
+    border-radius: 3px;
+    background-image: -moz-linear-gradient(90deg,rgb(1,127,229) 0%,rgb(21,138,222) 100%);
+    background-image: -webkit-linear-gradient(90deg,rgb(1,127,229) 0%,rgb(21,138,222) 100%) !important;
+    background-image: -ms-linear-gradient(90deg,rgb(1,127,229) 0%,rgb(21,138,222) 100%);
+}
+
+.stButton{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 20px;
+    width: 100px;
+    color: #fff;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-color: rgb(12,110,190) !important;
+    border-radius: 3px;
+    background-image: -moz-linear-gradient(90deg,rgb(1,127,229) 0%,rgb(21,138,222) 100%);
+    background-image: -webkit-linear-gradient(90deg,rgb(1,127,229) 0%,rgb(21,138,222) 100%) !important;
+    background-image: -ms-linear-gradient(90deg,rgb(1,127,229) 0%,rgb(21,138,222) 100%);
+}
+
+.rowMargin{
+    margin-top: 10px;
+}
+
+.rowMargin1{
+    margin-top: 20px;
+}
+
+.rowMarginLeft{
+    margin-left: 40px;
+}
+
+.form-first{
+	margin-top: 10px;
+	margin-bottom: 20px;
+    text-align: center;
+}
+
